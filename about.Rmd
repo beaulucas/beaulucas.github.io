@@ -1,5 +1,14 @@
 ---
-title: "About this website"
+title: "About Me"
 ---
   
-more about this website
+I'm a 25-year-old data analyst who currently lives in San Francisco, California.
+
+My passions for analytics can be summarized into:
+  - Reproducible research, report generation (using R, RMarkdown)
+  - Machine learning
+
+My passions outside of work fall in to:
+  - Weightlifting, Brazilian Jiu-Jitsu
+  - Cooking
+  - Music

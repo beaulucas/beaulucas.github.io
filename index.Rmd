@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Beau Lucas"
 ---
 
-Hello, website!
+Currently working on: ***[Tidy ISLR](beaulucas.github.io/tidy_islr)***
