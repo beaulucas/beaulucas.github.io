@@ -1,0 +1,8 @@
+---
+title: "Projects"
+---
+
+Here are my current projects:
+
+- ***[Tidy ISLR](beaulucas.github.io/tidy_islr)***
+  * *Tidy ISLR* is a recreation of ISLR textbook built with bookdown and using modern R code (mostly of the tidyverse)

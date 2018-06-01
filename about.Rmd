@@ -1,14 +1,19 @@
 ---
 title: "About Me"
 ---
+
+-----
   
 I'm a 25-year-old data analyst who currently lives in San Francisco, California.
 
 My passions for analytics can be summarized into:
-  - Reproducible research, report generation (using R, RMarkdown)
+
+  - Reproducible research, report generation (R, RMarkdown)
+  - Interactive visualization (primarily [ggiraph](https://github.com/davidgohel/ggiraph))
   - Machine learning
 
 My passions outside of work fall in to:
-  - Weightlifting, Brazilian Jiu-Jitsu
-  - Cooking
+
+  - Weightlifting and fitness
+  - Cooking and nutrition
   - Music
