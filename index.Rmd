@@ -6,7 +6,7 @@ title: "Welcome to my page!"
 
 This is my landing spot to share my current projects, interests, and resume.
 
-Currently working on: ***[Tidy ISLR](beaulucas.github.io/tidy_islr)***
+Currently working on: ***[Tidy ISLR](https://beaulucas.github.io/tidy_islr)***
 
 
 
