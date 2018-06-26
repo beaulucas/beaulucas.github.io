@@ -8,6 +8,6 @@ This is my landing spot to share my current projects, interests, and resume.
 
 Currently working on: ***[Tidy ISLR](https://beaulucas.github.io/tidy_islr)***
 
+  - *Tidy ISLR* is a re-imagining of the classic textbook [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/). It replaces the outdated R scripts in the book with modern, [tidyverse](https://www.tidyverse.org/)-style code. It is also wrapped in a modern media format, [Bookdown](https://www.rstudio.com/resources/webinars/introducing-bookdown/). The book is made entirely in RStudio.
+  
 
-
-*This site was built with [RMarkdown Websites](https://rmarkdown.rstudio.com/rmarkdown_websites.html)*
