@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-Here are my current projects:
+-----
 
 - ***[Tidy ISLR](beaulucas.github.io/tidy_islr)***
-  * *Tidy ISLR* is a recreation of ISLR textbook built with bookdown and using modern R code (mostly of the tidyverse)
+  * `bookdown::` recreation of ISLR textbook built with bookdown and using modern R code (mostly of the `tidyverse::`)
+- ***[rportr](https://github.com/beaulucas/rportr)***
+  * R package that helps streamline the workflow of reproducible data analysis, machine learning, and reporting.

@@ -4,16 +4,17 @@ title: "About Me"
 
 -----
   
-I'm a data scientist who currently lives and works in San Francisco, California.
+I'm a data scientist who lives and works in San Francisco. My focus is on modern data science workflows (primarily in R), reproducible research, and efficient code.
 
-Some of my favorite topics in data programming / data analytics:
+My language of choice for data science is R due to its functional nature and outstanding workflow capabilities of `tidyverse` + `RStudio` combination. I also use Python, but for different purposes.
 
-  - Reproducible research, report generation (R, RMarkdown)
-  - Interactive visualizations (R, [ggiraph](https://github.com/davidgohel/ggiraph))
-  - Predictive modeling, statistical learning techniques
+Currently, I am employed by @Twitter in the @MoPub organization, where I work on improving our mobile advertising exchange.
 
-My passions outside of work fall in to:
+### Work Experience
 
-  - Weightlifting, fitness
-  - Cooking, nutrition
-  - Music production, audio engineering
+* **Exchange Analyst**, Twitter, 2018 - present
+* **Data Analyst**, Glu Mobile, 2016 - 2018
+
+### Education
+
+* *B.S, Statistical Sciences*: University of California, Santa Barbara, 2015

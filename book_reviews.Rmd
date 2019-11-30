@@ -1,0 +1,10 @@
+---
+title: "Book Reviews"
+---
+
+-----
+
+1. R for Data Science
+2. Python Data Science Handbook
+3. Introduction To Statistical Learning
+4. Problem Solving With Algorithms and Data Structures

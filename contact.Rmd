@@ -9,3 +9,5 @@ title: "Contact"
 **linkedin**: <https://www.linkedin.com/in/beaulucas>
 
 **github**: <https://github.com/beaulucas>
+
+**twitter**: <https://twitter.com/beaulcs>
