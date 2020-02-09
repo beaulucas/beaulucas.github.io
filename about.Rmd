@@ -4,9 +4,9 @@ title: "About Me"
 
 -----
   
-I'm a data scientist who lives and works in San Francisco. My focus is on modern data science workflows (primarily in R), reproducible research, and efficient code.
+I'm a data scientist who lives and works in San Francisco. My focus is on modern data science workflows, reproducible research, and efficient code.
 
-My language of choice for data science is R due to its functional nature and outstanding workflow capabilities of `tidyverse` + `RStudio` combination. I also use Python, but for different purposes.
+I utilize both R and Python for data science. I gravitate towards R due to its functional nature, non-standard evaluation, reproducibility, and outstanding workflow integration of `tidyverse` + `RStudio`. 
 
 Currently, I am employed by @Twitter in the @MoPub organization, where I work on improving our mobile advertising exchange.
 
